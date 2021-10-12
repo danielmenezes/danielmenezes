@@ -1,6 +1,7 @@
 # Daniel Menezes
-
 ### Software Developer
+
+##
 <div>
   <div>
     <img border="black" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
